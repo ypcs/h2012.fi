@@ -7,7 +7,7 @@ title: Vihreät ehdokkaat Hankasalmella
 ## Tulevaisuuden visioita Hankasalmelle
 ![#69 Ville Korhonen](media/img/s_fix-ehdokaskuva-60.jpg)
 
- - 26v ICT-alan opiskelija ja yrittäjä, asuu Hankasalmen Kovalanmäellä
+ - 26v tieto- ja viestintäteknologian opiskelija, yrittäjä, asuu Hankasalmen Kovalanmäellä
  - Keski-Suomen Vihreiden varapuheenjohtaja ja Jyväskylän Vihreiden nuorten ja opiskelijoiden hallituksen jäsen
  - henkilökohtainen kotisivu: [ypcs.fi](http://ypcs.fi)
  - Facebook: [facebook.com/vipekorh](https://www.facebook.com/vipekorh) (sivu) [facebook.com/ypoocs](https://www.facebook.com/ypoocs) (profiili)
