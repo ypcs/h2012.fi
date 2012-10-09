@@ -161,7 +161,12 @@ header {
   margin-bottom: 0.25em;
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:}line{font-family:\0000324}}
+#page h2 {
+  margin-top: 0em;
+  color: #444;
+}
+@media -sass-debug-info{filename{font-family:}line{font-family:\0000329}}
 #page img {
   float: right;
   margin: 0 0 1em 1em;
