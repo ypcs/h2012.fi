@@ -6,7 +6,7 @@ updater: timestamp
 bundles:
     css_common:
         filters: scss
-        output: gen/common.tmp.css
+        output: gen/styles-dev.css
         contents:
             - common/css/common.scss
-#            - css/menu.scss
+            - css/h2012.scss

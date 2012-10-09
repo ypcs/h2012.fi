@@ -1,0 +1,25 @@
+html {
+    background: url('../img/pallologo_s.png') no-repeat 1em 1em fixed #fff;
+}
+
+header {
+    font-size: 0.7em;
+}
+
+#page {
+    width: 800px;
+    margin: 1em auto 1em auto;
+
+    .page-title {display: none;}
+    
+    h1, h2 {
+        margin-bottom: 0.25em;
+        clear: both;
+    }
+
+    img {
+        float: right;
+        margin: 0 0 1em 1em;
+        border: 1px solid gray;
+    }
+}
