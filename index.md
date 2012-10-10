@@ -20,7 +20,7 @@ title: Vihreät ehdokkaat Hankasalmella
 ## Itsenäisessä kunnassa yhteistyöllä eteenpäin
 ![#70 Sirpa Lindholm](media/img/s_ehdokaskuva-169.jpg)
 
- - 61v eläkeläinen, asuu Hankamäellä. Pitkä kokemus lautakunta- ja asukasyhteisötyöstä Espoossa.
+ - 61v eläkeläinen, ent. laboratoriomestari ja sivutoiminen yrittäjä, asuu Hankamäellä. Pitkä kokemus lautakunta- ja asukasyhteisötyöstä Espoossa.
  - Yhteisöllisyys ja välittäminen kunniaan
  - Päätöksentekoon avoimuutta ja yhteistyökykyä
  - Joukkoliikenneyhteydet paremmiksi
