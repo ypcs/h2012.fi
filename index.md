@@ -2,6 +2,9 @@
 layout: default
 title: Vihreät ehdokkaat Hankasalmella
 ---
+## Ajankohtaista
+ - 11.10. Sirpa osallistuu kunnan, Hankasalmen Sanomien sekä Hankasalmen yrittäjien vaalipaneeliin klo 18.00 alkaen Kuuhankaveden koululla (vapaa pääsy, kahvitarjoilu)
+ - 17.10. ennakkoäänestys alkaa
 
 # 69 - Ville Korhonen
 ## Tulevaisuuden visioita Hankasalmelle
